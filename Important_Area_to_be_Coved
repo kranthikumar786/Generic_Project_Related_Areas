@@ -15,6 +15,8 @@ Schema Design: Design a flexible and efficient database schema. Normalize data w
 
 Indexing: Use indexes to optimize read-heavy queries. However, balance it since excessive indexing can slow down write operations.
 
+
+
 Query Optimization: Write efficient SQL queries. Avoid N+1 query problems, use proper joins, and make sure queries are optimized for performance.
 
 Database Scaling: Ensure your database can scale (vertically or horizontally) as your user base grows. Look into sharding, replication, and partitioning strategies.
